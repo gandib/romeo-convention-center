@@ -3,3 +3,11 @@
     line-height: 33px;
     font-weight: 700;
 }
+
+.price-color {
+    color: #231D4F;
+}
+
+.highlight-price-color {
+    color: white;
+}
